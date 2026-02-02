@@ -1,6 +1,8 @@
-<!DOCTYPE html>
 <html>
   <head>
+    <style>
+      
+    </style>
     <title>Boo!</title>
   </head>
   <body>
