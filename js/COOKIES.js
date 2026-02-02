@@ -1,7 +1,8 @@
-def cookie(yon) {
+def cookie() {
+  let yon = document.getElementById("in").value;
   if (yon == "Y") {
     alert("YEAH!!!!!");
   } else if (yon == "N") {
-    alert("NA AH!!!!")
+    alert("NA AH!!!!");
   }
 }
