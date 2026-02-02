@@ -1,4 +1,4 @@
-function cookie() {
+function PAGEcookie() {
   let yon = document.getElementById("in").value;
   if (yon == "Y") {
     alert("YEAH!!!!!");
