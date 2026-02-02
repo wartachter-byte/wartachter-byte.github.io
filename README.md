@@ -1,11 +1,4 @@
-<html>
-  <head>
-    <style>
-      h1{font-size:0;}
-    </style>
-    <title>Boo!</title>
-  </head>
-  <body>
-    <h1>Header!</h1>
-  </body>
-</html>
+<!-- Im wrapping the page in a font-size 0 to hide the html in the read me -->
+<span font-size=0>
+BOO!
+</span>
