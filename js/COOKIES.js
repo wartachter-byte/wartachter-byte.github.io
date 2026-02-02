@@ -1,4 +1,4 @@
-def cookie() {
+function cookie() {
   let yon = document.getElementById("in").value;
   if (yon == "Y") {
     alert("YEAH!!!!!");
