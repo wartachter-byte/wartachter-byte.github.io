@@ -1,2 +1,8 @@
 <!-- Im wrapping the page in a font-size 0 to hide the html in the read me -->
-<span style="font-size:0px;">This text is invisible because font size is 0</span>
+<style>
+.small-text {
+    font-size: 0px;
+}
+</style>
+
+<span class="small-text">This text is hidden</span>
