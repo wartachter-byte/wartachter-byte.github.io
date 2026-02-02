@@ -1,7 +1,7 @@
 <html>
   <head>
     <style>
-      
+      h1{font-size:0;}
     </style>
     <title>Boo!</title>
   </head>
