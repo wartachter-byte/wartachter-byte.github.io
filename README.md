@@ -1,6 +1,4 @@
-[click here]: https://wartachter-byte.github.io/repo/page.html
-
 # Hello!
-This is a page that i just tried out to test github pages.
+This is a page that I just tried out to test GitHub Pages.
 There is nothing really interesting here.
-[click here]
+[click here](https://wartachter-byte.github.io/page.html)
